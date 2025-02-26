@@ -129,18 +129,9 @@ Evidence also renders [Mermaid](https://mermaid.js.org/) charts natively, which 
 
 <Tab label="Executives">
 
-# It's magic!
-
 > “Any sufficiently advanced technology is indistinguishable from magic”
 > 
 > Arthur C. Clarke, 1962
-
-# It's (nearly) free!
-----
-# It makes your data better!
-----
-More importantly, it'll make you and your team feel like [THIS](https://ai.datatovalue.com/share/caee2d69-3b98-42fa-b3b3-c9267ca0575f) about your data!
-
 
 </Tab>
 
