@@ -24,7 +24,7 @@ The Quality Assurance Framework from Data to Value is a metadata-driven data pro
 
 ### Modelling data is complex
 
-At Data to Value, modelling data is the fundamental method we use to turn raw data into valuable insights and actions for our clients. However, integrating multiple data sources is a complex endeavour which requires a meticulous approach to ensure that intentions and logic are represented accurately in transformation code.
+At Data to Value, modelling data is the fundamental method we use to turn raw data into valuable insights and actions for our clients. However, integrating multiple data sources is a complex endeavour which requires a meticulous approach to ensure that intentions and logic are represented accurately in transformation code. 
 
 ### Current solutions do not meet our needs
 
